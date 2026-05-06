@@ -1,0 +1,193 @@
+================================================================
+TECHSOLUTIONS INC. — AI RISK DIAGNOSIS & RESOLUTION PLAN
+Prepared by: Jordan Okafor, Strategic Intelligence Manager
+================================================================
+
+
+----------------------------------------------------------------
+3A. RISK SCENARIO DESCRIPTION (120–150 words)
+----------------------------------------------------------------
+
+INCIDENT SUMMARY: COPILOT COMPLIANCE DATA FABRICATION
+IN CLIENT PROPOSAL
+
+What Happened:
+  During a competitive bid for a mid-sized financial services
+  client, a TechSolutions sales associate used Microsoft Copilot
+  to draft a technical proposal. Copilot generated a section
+  citing specific compliance certification statistics —
+  including a claim that TechSolutions held an active FedRAMP
+  Moderate authorization — a certification the company was
+  pursuing but had not yet received. The associate, under time
+  pressure, did not verify the claim before submitting the
+  proposal to the client's procurement and legal teams.
+
+Why It Was Problematic:
+  The assertion constituted a materially false representation
+  during a regulated procurement process. Financial services
+  clients are bound by vendor due diligence obligations; an
+  inaccurate compliance claim could directly influence a
+  contracting decision and expose both the client and
+  TechSolutions to regulatory and legal consequences.
+
+Business and Customer Impact:
+  Upon discovery during the client's vendor verification process,
+  the claim was flagged by the client's compliance officer.
+  TechSolutions was temporarily placed on procurement hold,
+  damaging a relationship cultivated over eight months. Internal
+  credibility was also affected — the incident raised questions
+  about the team's proposal governance process and prompted an
+  emergency review requested by Evan Rossi, VP of Sales Strategy.
+
+
+----------------------------------------------------------------
+3B. DIAGNOSTIC BREAKDOWN (5–6 items)
+----------------------------------------------------------------
+
+ITEM 1: DETECTION METHOD
+-------------------------
+How the Error Was Found:
+  The error was identified externally — by the client's
+  compliance officer during vendor credential verification —
+  rather than caught internally before submission. A secondary
+  internal detection occurred when Aisha Mbaye (Customer Success
+  Manager) received an urgent call from the client relationship
+  contact and escalated to Jordan Okafor.
+
+Gap Identified:
+  TechSolutions had no active pre-submission review gate
+  requiring factual verification of AI-generated compliance or
+  certification claims. Detection relied entirely on the
+  individual associate's judgment, which failed under deadline
+  pressure.
+
+
+ITEM 2: SUSPECTED ROOT CAUSE
+------------------------------
+Primary Cause:
+  Microsoft Copilot hallucinated a plausible but false compliance
+  credential, likely drawing on training data referencing
+  FedRAMP authorization processes in general and conflating them
+  with TechSolutions' own certification status.
+
+Contributing Factors:
+  - No internal certification registry was accessible to Copilot
+    to cross-check claims against verified TechSolutions data.
+  - The associate lacked specific training on AI hallucination
+    risk in high-stakes compliance contexts.
+  - Time pressure from a compressed bid deadline reduced the
+    likelihood of independent verification.
+
+
+ITEM 3: ANALYSIS REQUIRED
+---------------------------
+Immediate Analysis:
+  (a) Retrieve and audit all Copilot-generated proposals
+      submitted in the preceding 90 days to identify any
+      additional unverified certification or compliance claims.
+  (b) Review the specific Copilot prompt used to generate the
+      proposal section to understand what inputs produced the
+      fabricated output.
+  (c) Cross-reference all active proposals with the official
+      TechSolutions certifications register maintained by
+      Priya Sharma's governance team.
+
+Broader Analysis:
+  Assess whether similar risks exist in other content types —
+  including marketing collateral, RFP responses, and client
+  security briefings — that also rely on Copilot-generated
+  content without a structured review checkpoint.
+
+
+ITEM 4: ESCALATION CRITERIA
+-----------------------------
+Escalation Is Required Immediately When:
+  - An AI-generated error has been delivered to an external
+    client, prospect, or partner (as occurred in this incident).
+  - The error involves a regulatory, legal, or contractual
+    claim — regardless of whether the client has yet noticed.
+  - A client relationship is at risk of formal dispute,
+    procurement suspension, or legal action.
+  - The error pattern suggests systemic failure across multiple
+    proposals rather than a single isolated instance.
+
+Escalation Chain:
+  Jordan Okafor → Evan Rossi (VP of Sales Strategy) →
+  Priya Sharma (Director of AI Governance) → Legal Counsel
+  → CEO notification if client relationship or regulatory
+  exposure is confirmed.
+
+
+ITEM 5: PATTERN RISK ASSESSMENT
+---------------------------------
+Risk of Recurrence:
+  High, given that the team routinely uses Copilot for technical
+  proposal drafting under compressed timelines and currently has
+  no standardized checkpoint requiring verification of AI-
+  generated factual claims prior to external distribution.
+
+Indicators to Monitor:
+  - Proposals containing certification names, regulatory
+    references, or compliance status language.
+  - Proposals generated within 24 hours of a submission
+    deadline, where review time is most likely to be compressed.
+  - Any Copilot output referencing TechSolutions' own
+    qualifications, awards, partnerships, or accreditations.
+
+
+ITEM 6: STAKEHOLDER COMMUNICATION REQUIREMENT
+-----------------------------------------------
+Internal:
+  The full sales team requires immediate notification of the
+  incident type and interim guidance on what categories of
+  AI-generated content require mandatory verification before
+  submission. Evan Rossi to issue this communication within
+  24 hours of incident confirmation.
+
+External (Client):
+  A direct acknowledgment must be delivered to the client's
+  compliance and procurement contacts by Jordan Okafor and
+  Aisha Mbaye, clarifying the accurate certification status,
+  explaining how the error occurred, and outlining the
+  corrective steps TechSolutions is implementing. The message
+  must be honest, concise, and free of defensive language.
+
+
+----------------------------------------------------------------
+3C. RESOLUTION & PREVENTION PLAN (120–150 words)
+----------------------------------------------------------------
+
+IMMEDIATE RESOLUTION
+
+The fabricated FedRAMP claim is corrected via a formal written
+clarification delivered to the client within 48 hours,
+co-signed by Jordan Okafor and Evan Rossi, accompanied by
+official documentation of TechSolutions' actual certification
+status. The affected associate receives a direct coaching
+session on AI verification responsibilities — framed as
+learning, not punitive.
+
+SYSTEMIC CORRECTIONS
+
+Priya Sharma implements a Copilot Compliance Content Policy
+within two weeks, establishing that any AI-generated reference
+to certifications, regulatory status, or legal claims is a
+mandatory human-verified field before document release. Luis
+Martínez develops a Certified Claims Register — a live, shared
+reference document listing all current TechSolutions credentials
+— that sales staff must consult before any external submission.
+
+PREVENTION GOING FORWARD
+
+All sales team members complete a 60-minute AI Accuracy and
+Verification module within 30 days. A proposal submission
+checklist — requiring a named reviewer's sign-off on compliance
+content — is embedded into the CRM workflow as a non-bypassable
+step. Priya Sharma schedules a quarterly AI error review to
+assess whether new Copilot behaviors require policy updates.
+Recurrence metrics are reported to Evan Rossi monthly.
+
+
+================================================================
+END OF DOCUMENT
+================================================================

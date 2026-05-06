@@ -1,0 +1,189 @@
+=====================================================================
+  TASK 4: AI-DRIVEN LEAD GENERATION PLAN
+  Jordan Reyes | Sales Development Representative | NextPhase Technologies
+  Target Segment: Mid-Market Manufacturing Prospects
+=====================================================================
+
+---------------------------------------------------------------------
+SECTION 1: SEGMENTATION CRITERIA (7 Items)
+---------------------------------------------------------------------
+
+1. COMPANY SIZE — AI-Generated
+   Annual revenue between $25M and $250M and employee headcount
+   between 100 and 1,000. This range defines the mid-market
+   manufacturing sweet spot where operational complexity is high
+   enough to create genuine pain but budget authority is
+   concentrated enough for efficient sales cycles.
+
+2. INDUSTRY VERTICAL — AI-Generated
+   Primary focus on discrete and process manufacturing sub-sectors
+   including industrial components, food and beverage, plastics,
+   metal fabrication, and consumer goods production. These
+   verticals consistently experience the downtime, supply chain
+   visibility, and workflow efficiency challenges that NextPhase
+   directly addresses.
+
+3. OPERATIONAL COMPLEXITY SIGNALS — Human-Added
+   Companies operating across two or more production facilities
+   or managing multi-tier supplier relationships. Multi-site
+   operations create coordination gaps that single-facility
+   companies do not experience at the same scale, making them
+   significantly higher-value targets for NextPhase's platform.
+
+4. TECHNOLOGY MATURITY INDICATOR — Human-Added
+   Companies currently using legacy ERP systems (SAP Business
+   One, Epicor, Infor, or older Microsoft Dynamics versions)
+   without a modern operations intelligence layer. These
+   organizations have existing technology investment to protect
+   but clear gaps in real-time visibility — positioning
+   NextPhase as an additive solution rather than a replacement.
+
+5. HIRING AND JOB POSTING SIGNALS — AI-Generated
+   Active job postings for roles such as Operations Analyst,
+   Supply Chain Coordinator, Continuous Improvement Manager, or
+   Manufacturing Systems Administrator. These postings signal
+   that the company is actively trying to solve operational
+   problems — often the same problems NextPhase automates.
+
+6. GROWTH OR EXPANSION INDICATORS — Human-Added
+   Companies that have announced facility expansions, new
+   production line investments, or recent acquisition activity
+   within the past 12 months. Growth events create operational
+   strain and technology gaps that generate immediate buying
+   urgency, making timing of outreach critical and advantageous.
+
+7. GEOGRAPHIC CONCENTRATION — Human-Added
+   Initial targeting prioritized within regions where NextPhase
+   has existing customer references and implementation team
+   coverage: Midwest manufacturing corridor (Ohio, Michigan,
+   Indiana, Illinois) and Southeast industrial zones (Tennessee,
+   North Carolina, Georgia). Local reference accounts and
+   shorter implementation travel reduce both sales cycle length
+   and prospect risk perception.
+
+
+---------------------------------------------------------------------
+SECTION 2: LEAD IDENTIFICATION PLAN (143 words)
+---------------------------------------------------------------------
+
+The lead identification workflow begins with AI-assisted database
+queries in LinkedIn Sales Navigator and ZoomInfo using the
+segmentation criteria above as structured filters. Primary search
+keywords include: "manufacturing operations," "supply chain
+visibility," "production efficiency," "ERP integration," and
+"continuous improvement." Boolean search strings will combine
+industry codes (SIC/NAICS for manufacturing), revenue range
+filters, and headcount parameters to generate an initial prospect
+universe of 80 to 120 companies per campaign cycle.
+
+Each AI-generated lead then passes through a three-step
+verification workflow: (1) confirm firmographic accuracy against
+the company's LinkedIn profile and official website; (2) scan
+for at least one recent trigger event — job posting, news
+announcement, or leadership change — that confirms active
+operational need; (3) identify a named stakeholder in an
+Operations, Supply Chain, or Finance leadership role before
+the lead is accepted into the active pipeline. Any lead
+failing two or more verification steps is removed or flagged
+for future re-evaluation rather than advanced to outreach.
+
+
+---------------------------------------------------------------------
+SECTION 3: LEAD PRIORITIZATION FRAMEWORK (6 Items)
+---------------------------------------------------------------------
+
+---
+TIER CRITERION 1: TRIGGER EVENT RECENCY — Weight: High
+AI Role: Copilot and LinkedIn alerts scan for news events,
+  job postings, and leadership changes within the past 90 days.
+Human Assessment: Evaluate whether the trigger event represents
+  a genuine operational pain point or a routine business activity.
+  A new VP of Operations hire scores higher than a routine
+  facilities maintenance posting.
+Score Range: 0–25 points
+  21–25: Trigger event directly signals operational technology need
+  11–20: Trigger event indicates growth or change — indirect signal
+  0–10: No recent trigger event identified
+
+---
+TIER CRITERION 2: ICP FIT SCORE — Weight: High
+AI Role: ZoomInfo and Sales Navigator firmographic filters
+  generate an automated fit score based on revenue, headcount,
+  industry vertical, and location matching.
+Human Assessment: Overlay the AI fit score with knowledge of
+  known buying patterns in that sub-vertical — a metal fabricator
+  at $60M revenue may score higher strategically than a food
+  manufacturer at $150M if NextPhase's reference accounts skew
+  toward fabrication.
+Score Range: 0–25 points
+  21–25: Matches all 7 segmentation criteria
+  11–20: Matches 5–6 criteria with one or two minor gaps
+  0–10: Matches fewer than 5 criteria
+
+---
+TIER CRITERION 3: STAKEHOLDER ACCESSIBILITY — Weight: Medium
+AI Role: LinkedIn Sales Navigator identifies named contacts in
+  target roles and flags mutual connections or shared groups
+  that lower outreach friction.
+Human Assessment: Assess whether a warm introduction path exists
+  through existing NextPhase customers, colleagues, or industry
+  associations. A reachable VP of Operations through a mutual
+  connection outranks an anonymous prospect at a better-fit company.
+Score Range: 0–20 points
+  16–20: Named stakeholder identified with warm introduction path
+  8–15: Named stakeholder identified, cold outreach required
+  0–7: No named stakeholder identified in target role
+
+---
+TIER CRITERION 4: TECHNOLOGY GAP EVIDENCE — Weight: Medium
+AI Role: Copilot scans job postings, press releases, and
+  LinkedIn content for references to legacy systems, manual
+  processes, or technology upgrade initiatives.
+Human Assessment: Interpret the evidence quality — a job posting
+  requesting "ERP data migration experience" is stronger evidence
+  of a technology gap than a general "process improvement" role.
+Score Range: 0–15 points
+  12–15: Direct evidence of legacy system limitations or
+          active technology evaluation
+  6–11: Indirect signals suggesting operational technology gaps
+  0–5: No observable technology gap evidence
+
+---
+TIER CRITERION 5: COMPETITIVE DISPLACEMENT OPPORTUNITY — Weight: Medium
+AI Role: Copilot identifies whether the prospect is currently
+  using a known NextPhase competitor and flags accounts where
+  competitor contracts are likely approaching renewal windows.
+Human Assessment: Apply knowledge of competitor weaknesses most
+  relevant to this prospect's profile. A company struggling with
+  downtime visibility is a stronger displacement candidate if
+  their current vendor is known for poor predictive maintenance
+  capabilities.
+Score Range: 0–10 points
+  8–10: Known competitor in place with identifiable renewal window
+  4–7: Competitor suspected but not confirmed
+  0–3: No competitive intelligence available
+
+---
+TIER CRITERION 6: STRATEGIC ACCOUNT POTENTIAL — Weight: Low/Long-Term
+AI Role: Copilot estimates total addressable opportunity based
+  on company size, number of facilities, and likely module adoption.
+Human Assessment: Evaluate whether the account has multi-year
+  expansion potential — could a single-site win grow into an
+  enterprise-level relationship? Accounts with clear expansion
+  paths receive a strategic bonus score even if near-term fit
+  is moderate.
+Score Range: 0–5 points
+  4–5: Clear multi-site or multi-division expansion potential
+  2–3: Limited but possible expansion path
+  0–1: Single-site, low expansion likelihood
+
+---
+TOTAL SCORING SUMMARY:
+  80–100 points → Tier 1: Priority outreach within 48 hours
+  55–79 points  → Tier 2: Outreach within current campaign cycle
+  30–54 points  → Tier 3: Nurture sequence — monitor for trigger events
+  Below 30      → Disqualified: Remove or archive for future review
+
+=====================================================================
+  END OF TASK 4
+=====================================================================
