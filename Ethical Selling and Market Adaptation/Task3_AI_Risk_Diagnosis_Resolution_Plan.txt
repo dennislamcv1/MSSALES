@@ -1,0 +1,148 @@
+================================================================
+TECHSOLUTIONS INC. — STRATEGIC INTELLIGENCE DIVISION
+Task 3: AI Risk Diagnosis & Resolution Plan
+Prepared by: Jordan Okafor, Strategic Intelligence Manager
+================================================================
+
+
+────────────────────────────────────────────────────────────────
+3A. RISK SCENARIO DESCRIPTION (120–150 words)
+────────────────────────────────────────────────────────────────
+
+Scenario: Unauthorized Disclosure of Client Vulnerability Data
+in a Copilot-Generated Proposal
+
+During a routine proposal drafting session, a TechSolutions
+sales representative used Microsoft Copilot to accelerate the
+creation of a cybersecurity assessment proposal for a prospective
+client in the healthcare sector. To personalize the document, the
+rep input detailed vulnerability findings from a previously
+completed internal audit for an existing client — HealthBridge
+Medical Group — as reference context in the Copilot prompt. The
+resulting proposal inadvertently incorporated specific HealthBridge
+network topology details and unresolved security gaps into the new
+client's document, including language closely mirroring the
+confidential audit report.
+
+This was problematic for three reasons: it constituted an
+unauthorized disclosure of HealthBridge's confidential security
+posture; it potentially violated HIPAA's data handling obligations;
+and it exposed a critical operational vulnerability belonging to a
+live client to an unrelated third party. Had this proposal reached
+the prospect without review, TechSolutions would have faced
+immediate breach-of-contract liability, HIPAA notification
+obligations, and catastrophic reputational damage — particularly
+in a sector where data trust is the foundation of every
+client relationship.
+
+[Word count: 150]
+
+
+────────────────────────────────────────────────────────────────
+3B. DIAGNOSTIC BREAKDOWN (6 Items)
+────────────────────────────────────────────────────────────────
+
+ITEM 1 — Detection Method
+• How It Was Caught: A second-stage human reviewer — following
+  TechSolutions' two-person proposal review protocol established
+  in Task 1 — recognized a client name and network terminology
+  that did not belong to the prospect being targeted. The
+  reviewer flagged the document before it left internal systems.
+• Key Takeaway: This incident confirms that the human review
+  gate is not procedural overhead — it is an active line of
+  defense. Without it, the error would have reached a third
+  party undetected.
+
+ITEM 2 — Suspected Root Cause
+• Primary Cause: The sales representative lacked a clear
+  understanding of context boundary risks in AI prompting —
+  specifically, that confidential data pasted into a Copilot
+  session can be recalled, recombined, and surfaced in
+  unintended outputs, especially within the same session or
+  connected workspace environment.
+• Contributing Cause: No prompt construction guidelines existed
+  to prohibit the use of identified client data as AI input
+  context, leaving individual judgment as the only safeguard —
+  an insufficient control for a compliance-sensitive environment.
+
+ITEM 3 — Analysis Required: Scope of Exposure
+• What Must Be Determined: Was this an isolated incident or part
+  of a pattern? The investigation must audit recent Copilot
+  prompt histories across the sales team to determine whether
+  other proposals were generated using confidential client data
+  as reference input. Particular attention must be paid to
+  healthcare, financial services, and legal sector accounts,
+  where data sensitivity is highest and regulatory stakes are
+  most severe.
+• Owner: Priya Sharma, Director of AI Governance, in
+  coordination with IT Security and Legal.
+
+ITEM 4 — Analysis Required: Platform Data Retention Review
+• What Must Be Determined: Does the organization's current
+  Microsoft 365 / Copilot configuration retain user-input
+  prompt data? If so, for how long, and who has access to it?
+  This analysis must confirm whether HealthBridge's confidential
+  information is still present in any Copilot session cache,
+  SharePoint index, or connected data store — and if so,
+  initiate immediate deletion protocols.
+• Owner: IT Security team, with findings reported to Priya
+  Sharma within 48 hours of incident confirmation.
+
+ITEM 5 — Analysis Required: Contractual and Regulatory Exposure
+• What Must Be Determined: Legal must review TechSolutions'
+  Master Service Agreement with HealthBridge to assess
+  whether a formal data breach notification obligation has been
+  triggered. Simultaneously, HIPAA counsel must assess whether
+  the input of PHI-adjacent security data into a third-party
+  AI platform constitutes a reportable privacy incident under
+  45 CFR §164.400–414.
+• Owner: General Counsel and external HIPAA compliance advisor.
+  Determination must be reached within 72 hours.
+
+ITEM 6 — Escalation Criteria
+• Escalation Is Required Immediately If Any of the Following
+  Are True:
+  — The proposal reached the prospect's inbox at any point,
+    even in draft form.
+  — The Copilot platform retained or indexed HealthBridge data
+    in any shared or cloud-accessible environment.
+  — Additional proposals are found to contain cross-client
+    data contamination during the scope audit.
+  — Legal counsel determines a HIPAA breach notification to
+    HealthBridge and/or HHS is required.
+• Escalation Path: Jordan Okafor → Evan Rossi (VP of Sales
+  Strategy) → General Counsel → CEO. HealthBridge's primary
+  contact at TechSolutions (Aisha Mbaye) must be briefed before
+  any external notification is made, so the client relationship
+  is managed with honesty and care, not reactive damage control.
+
+
+────────────────────────────────────────────────────────────────
+3C. RESOLUTION & PREVENTION PLAN (120–150 words)
+────────────────────────────────────────────────────────────────
+
+Immediate corrective actions are threefold: quarantine and delete
+the compromised proposal from all systems; convene an emergency
+briefing with Priya Sharma and Legal to assess notification
+obligations; and proactively inform HealthBridge of the incident
+before any regulatory timeline requires us to — demonstrating the
+transparency our ethical framework demands.
+
+For prevention, three structural controls will be implemented
+within 30 days. First, Priya Sharma's governance team will publish
+a mandatory Copilot Prompt Policy prohibiting the use of any
+identified client data — names, network details, audit findings —
+as AI session input. Second, all sales personnel will complete a
+60-minute AI data hygiene training module before Copilot access
+is restored. Third, proposal templates will be restructured so
+that client-specific context fields are populated manually post-
+generation, rather than embedded in prompts. These controls
+transform a reactive incident response into a proactive governance
+upgrade, protecting both clients and TechSolutions from
+recurrence.
+
+[Word count: 149]
+
+================================================================
+END OF TASK 3
+================================================================
